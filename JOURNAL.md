@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/26/2025 - Looking over what HackPad is  
+## 10/26/2025 1 AM - Looking over what HackPad is  
 
 Got to read more in the hackpad https://hackpad.hackclub.com/guide then -> faq then resources will watch the videos there as tutorial. Ima thinking of following the guide to learn so it is easier to add my own changes later will need to understand it because i just read about 10 min woth of the document so far picked it because will not do the same mistake as in hackclub of never deciding or not adding work.
 
@@ -19,4 +19,18 @@ iam setting the rest for tomorrow because this speed is not great
 
 
   
+
+## 10/26/2025 12 PM - Finished 2 tutorials in hackpad Resources   
+
+did the video to the end matched its steps and watched the other. Got better understanding and will think of how to change the hackpad to make it special might add some stuff but will first need to continue looking into the controller.
+
+good stuff
+Learned kicad "only 1 example done and it is keyboard example :)"
+
+bad stuff 
+still dont know how i want to change the original hackpad dont even know what a hackpad is only that it has 4 keys and how it is made  -> looked more into it might add a screen witch i use with a desktop app to controll what is displayed like "task major or a small thing so i can use the keys on the pad to interact and change what shows like Trex borwser game or stuff on a screen will have to look into it".
+
+
+time spent 2h
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5c1e8fd9d88295e63c15d8d1effb079254b7117b/image.png)  
 
