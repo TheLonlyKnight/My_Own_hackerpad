@@ -7,4 +7,5 @@ Finished the resources part another 10 min will watch the youtube tutorials vide
 
 40/50 minhour passed finished How to Design Mechanical Keyboard PCBs with Kicad
  https://www.youtube.com/watch?v=8WXpGTIbxlQ will follow it when the kicad installs and get the get lebiry will end it here the clock is 1:30 and wifi got some problems was not able to finish emplenting the vedio but got to prepare the softwere and kicad crached
- 
+
+too much has happend and i just saw that i got journal in github so it works and this has no value wont add or remove it "likes the memory"
