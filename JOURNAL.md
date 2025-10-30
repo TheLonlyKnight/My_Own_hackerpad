@@ -41,8 +41,9 @@ choose to use the xiao 2040 chip the same from the hackpad becouse idk no reason
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ef822fbbd4a14a2fc8f17dcf2f146e45a99be043/image.png)
 i did look for the chip part and the screen
 
-why i did not choose the rotary is cant find the rotary it self it is allways on a pcb or the pins are not marked used temu to look for them.
+why i did not choose the rotary is cant find the rotary it self it is allways on a pcb or the pins are not marked used temu to look for them. "read in the Sourcing parts under guides and i will use amazon 
 
-if someone reads this pls help with where to get the pcb? "i have seen jlc and they have a good website and look to be a good company but the shiping is like 20$"
-  
+if someone reads this pls help with where to get the pcb? "i have seen jlc and they have a good website and look to be a good company but the shiping is like 20$" "read more and blueprint says that shipping should cost around 6$ "
+
+OBS! i know i need to fix the github repo and do more stuff elsewhere  
 
