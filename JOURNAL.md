@@ -34,3 +34,15 @@ still dont know how i want to change the original hackpad dont even know what a 
 time spent 2h
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5c1e8fd9d88295e63c15d8d1effb079254b7117b/image.png)  
 
+## 10/30/2025 - Produced design, finished pcb  
+
+i got to punder about what to add extra and chose a screen and looked at how stuff will work"I2C protocol" bc that was what the screen uses kinda useless if i dont have other stuff connected.
+choose to use the xiao 2040 chip the same from the hackpad becouse idk no reason seemd fine also got 3 pins left and wanted to add an rotary encoder but choose because would not fit in a small rectangle could have hade it where i have the xiao chip but wanted to have the chip visible or at least for now "might change it later" ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--4502dace5d4fcb15d480948865aa12e252c7b46e/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ef822fbbd4a14a2fc8f17dcf2f146e45a99be043/image.png)
+i did look for the chip part and the screen
+
+why i did not choose the rotary is cant find the rotary it self it is allways on a pcb or the pins are not marked used temu to look for them.
+
+if someone reads this pls help with where to get the pcb 
+  
+
