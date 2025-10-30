@@ -43,6 +43,6 @@ i did look for the chip part and the screen
 
 why i did not choose the rotary is cant find the rotary it self it is allways on a pcb or the pins are not marked used temu to look for them.
 
-if someone reads this pls help with where to get the pcb 
+if someone reads this pls help with where to get the pcb? "i have seen jlc and they have a good website and look to be a good company but the shiping is like 20$"
   
 
