@@ -59,6 +59,7 @@ Reasons For Redesign
 Now all i have left is to design the cover and then look to how to submit my project.
 
 OBs i also added text to the board
+size (60mm,95.250mm)
 
 ![Skärmbild 2025-11-06 211657](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--36b428d55df7ac2d1639940e9954c988bf6accdf/Sk%C3%A4rmbild%202025-11-06%20211657.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--36d4463726997a63022b97a8056cd32c8aeddf2e/image.png)
