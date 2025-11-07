@@ -68,3 +68,23 @@ size (60mm,95.250mm)
 
   
 
+## 11/7/2025 - Redesign  
+
+I redesigned the pcb and added a Rotary Encoder with a switch "key".
+Reasons For Redesign
+1. Looks like a calculator and not a keypad
+2. Wanted to add another thing to the PCB
+3. got more space on top too keep the xiao ship and the rotary switch and the screen
+
+Now all i have left is to design the cover and then look to how to submit my project.
+
+OBs i also added text to the board
+
+size (60mm,95.250)
+
+![Skärmbild 2025-11-06 211657](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--36b428d55df7ac2d1639940e9954c988bf6accdf/Sk%C3%A4rmbild%202025-11-06%20211657.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--36d4463726997a63022b97a8056cd32c8aeddf2e/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9871451f556d2bd8e859d221013ad8d28a2e7fc/image.png)
+
+Obs forgot to post this so yahe  
+
