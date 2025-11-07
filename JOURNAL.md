@@ -68,7 +68,7 @@ size (60mm,95.250mm)
 
   
 
-## 11/7/2025 - Redesign  
+## 11/7/2025 10:00 PM - Redesign  
 
 I redesigned the pcb and added a Rotary Encoder with a switch "key".
 Reasons For Redesign
@@ -87,4 +87,13 @@ size (60mm,95.250)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9871451f556d2bd8e859d221013ad8d28a2e7fc/image.png)
 
 Obs forgot to post this so yahe  
+
+## 11/7/2025 10:06 PM - made the case   
+
+learned how to export it as a step and yahe just sat down and made the case thanks to my school for giving a short intro to fusion helped a lot to not watch a video "iam not good in fusion or similar design software i dont know what the diffrent of build and components are or how to make a joint ". got a problem when trying to use some tools but got around it by making parts with similar shape "rectangle" and just did that.
+liked how the diodes made a place for the pcb to sit might keep it that way or remove it later but i will need to replace them...
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--38a39467749c9b2e684bd9e1a21949c6580b3ebf/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bcbf2f1ab162c672db6758f0105a38d40eec09ba/image.png)
+  
 
