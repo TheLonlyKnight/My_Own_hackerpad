@@ -97,3 +97,14 @@ liked how the diodes made a place for the pcb to sit might keep it that way or r
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bcbf2f1ab162c672db6758f0105a38d40eec09ba/image.png)
   
 
+## 11/10/2025 - Finished the code and case  
+
+The code was mostly done with AI did read the examples to understand the code osv.
+
+The case is done on the outside just need to give it some sort of clutch so i dont need to glue them or like that will problebly do it to 2 peices and just clip them together . 
+
+Not much that i remember bc it was over the span of 3 days 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjQsInB1ciI6ImJsb2JfaWQifX0=--a044c0afebc57dff87b6ac7c98541376d6a51bc0/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjUsInB1ciI6ImJsb2JfaWQifX0=--ac9cfd65091f57bb85138ec2413e15cdeed0ba06/image.png)
+  
+
