@@ -1,0 +1,12 @@
+Libraries required
+
+- Keypad (by Mark Stanley / Alexander Brevig)
+- Adafruit SSD1306 (by Adafruit)
+- Adafruit GFX Library (by Adafruit)
+- Bounce2 (by Thomas O Fredericks)
+- Encoder (by Paul Stoffregen)
+
+Notes:
+- In the Arduino IDE open Sketch → Include Library → Manage Libraries... and search for each name above.
+- I added a polling-based encoder implementation in the sketch when `ENCODER_DO_NOT_USE_INTERRUPTS` is defined to avoid AVR-only code; if you want the original Encoder library behavior, install "Encoder" and remove `#define ENCODER_DO_NOT_USE_INTERRUPTS` from the top of the sketch.
+- Keep the `lib/` folder if you have local libraries; otherwise Library Manager is the recommended way to install.
