@@ -1,0 +1,11 @@
+"Product name",Product description,Product link,Product unit price/piece,Product amount,"Product running total.",extra info
+ OLED module 0.91,blue OLED 128X32 OLED LCD LED Display Module 0.91,https://www.aliexpress.com/item/1005009624144115.html?spm=a2g0o.detail.0.0.3d5fN5sKN5sKRs&mp=1#nav-specification,"1,31",1,"1,31",
+ RP2040 Seeed XIAO Raspberry Pi,the microchip to wire and program everything together,https://www.aliexpress.com/item/1005008200917480.html?spm=a2g0o.detail.0.0.62dbEZu3EZu3oV&mp=1#nav-description,"5,93",1,"5,93",
+diode Do-35,diode to use the metrix,https://www.aliexpress.com/item/1005009522685446.html?spm=a2g0o.cart.0.0.119738dagwbWYj&mp=1,"0,0046",100,"0,46",couldent find a cheaper packet with like 8
+EC11 Rotary Encoder,EC11 Rotary Encoder Module for Arduino Brick Sensor Development Round Audio Rotating Potentiometer Knob Cap,https://www.aliexpress.com/item/1005010108347105.html?spm=a2g0o.cart.0.0.119738dagwbWYj&mp=1,"2,05",1,"2,05",
+mechanical switch 3 pin cliecky,"Outemu Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch
+",https://www.aliexpress.com/item/1005002378701948.html?spm=a2g0o.cart.0.0.119738dagwbWYj&mp=1,"0,343",10,"3,43",
+usb C to usb a Cabel,"1,5 metrer long cabel",https://www.aliexpress.com/item/1005008550268687.html?spm=a2g0o.productlist.main.11.3e5f53c1Jm4lx5&algo_pvid=41a72076-6bfb-47f7-9e4c-83f22740a966&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008550268687%7C_p_origin_prod%3A,1.6333.../m,,"2,45",
+,,,,,,"total:15,63"
+pcb,pcb from jlc,none can compare the file on jlc website,2,1,2,
+,,,,,,"17,63"
