@@ -43,8 +43,8 @@ private:
 
 // ------------------------- config ---------------------------------
 // OLED I2C pins and address (128x32)
-#define OLED_SDA 4
-#define OLED_SCL 5
+#define OLED_SDA 22
+#define OLED_SCL 23
 #define OLED_RESET -1
 #define OLED_I2C_ADDR 0x3C
 
@@ -64,13 +64,13 @@ static char KEYS[KEYPAD_ROWS][KEYPAD_COLS] = {
 };
 
 // User-provided wiring (define once here)
-uint8_t ROW_PINS[KEYPAD_ROWS] = {0, 1, 10}; // rows: digital pins 0,1,10
-uint8_t COL_PINS[KEYPAD_COLS] = {2, 3, 6};  // cols: digital pins 2,3,6
+uint8_t ROW_PINS[KEYPAD_ROWS] = {0, 1, 18}; // rows: digital pins 0,1,10
+uint8_t COL_PINS[KEYPAD_COLS] = {2, 21, 16};  // cols: digital pins 2,3,6
 
 // Rotary encoder pins (A, B, push)
-#define ENCODER_A 7
-#define ENCODER_B 8
-#define ENCODER_BTN 9
+#define ENCODER_A 17
+#define ENCODER_B 19
+#define ENCODER_BTN 20
 
 #define DEBOUNCE_TIME 50 // Debounce time in milliseconds
 
