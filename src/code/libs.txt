@@ -1,0 +1,6 @@
+#define ENCODER_DO_NOT_USE_INTERRUPTS
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#include <Keypad.h>
+#include <Bounce2.h>
