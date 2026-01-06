@@ -1,5 +1,5 @@
 my own hackpad
-![alt text](imge/upgradedCase.pnh)
+![alt text](imge/upgradedCase.png)
 
 Features:
 Rotary encoder with a switch
