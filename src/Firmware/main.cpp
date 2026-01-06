@@ -198,6 +198,32 @@ void setup() {
     lastEncPos = encoder.read();
 }
 
+void handleSerialCommands() {
+    if (Serial.available() > 0) {
+        String cmd = Serial.readStringUntil('\n');
+        cmd.trim();
+        
+        if (cmd == "demo") {
+            Serial.println("Running drawDemo()");
+            display.drawDemo();
+        } else if (cmd == "shapes") {
+            Serial.println("Running drawShapes()");
+            display.drawShapes();
+        } else if (cmd.startsWith("text ")) {
+            String text = cmd.substring(5);
+            Serial.println("Displaying: " + text);
+            display.updateDisplay(text);
+        } else if (cmd == "help") {
+            Serial.println("Commands:");
+            Serial.println("  demo    - Show demo screen");
+            Serial.println("  shapes  - Show shapes screen");
+            Serial.println("  text <msg> - Display custom text");
+        } else {
+            Serial.println("Unknown command. Type 'help' for commands.");
+        }
+    }
+}
+
 void processEvent(const Event &e) {
     switch (e.type) {
         case EventType::Key: {
@@ -216,11 +242,13 @@ void processEvent(const Event &e) {
             Serial.println("Encoder button");
             display.updateDisplay("Enc: Btn"); break;
         default: break;
-    if Eevent
     }
 }
 
 void loop() {
+    // Handle serial commands
+    handleSerialCommands();
+    
     char key = keypad.scan();
     if (key != NO_KEY) { evtPush({EventType::Key, key}); }
 
