@@ -30,4 +30,4 @@ Keypad is used to configure thhe keypad and to be able to register the button pr
 
 will add a program later ot draw stuff or view stuff from pc and more.
 
-here is the final version with the case ![alt text](1000030235.jpg)
+here is the final version with the case ![alt text](imge/1000030235.jpg)
