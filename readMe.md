@@ -29,3 +29,5 @@ Encoder is used to register the movment of the rotary switch "movment left and r
 Keypad is used to configure thhe keypad and to be able to register the button press 
 
 will add a program later ot draw stuff or view stuff from pc and more.
+
+here is the final version with the case ![alt text](1000030235.jpg)
